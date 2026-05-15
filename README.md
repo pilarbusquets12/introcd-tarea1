@@ -1,4 +1,4 @@
-# Tarea 1 — Introducción a la Ciencia de Datos 2026
+# Tarea 1 Introducción a la Ciencia de Datos 2026
 
 Entregables de la Tarea 1 de la materia *Introducción a la Ciencia de Datos* (Maestría CDAA, FING).
 
